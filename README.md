@@ -15,5 +15,5 @@ MFCMAPI code by Stephen Griffin: [MFCMAPI](mfcmapi.codeplex.com)
 - mimeole.h is from MFCMAPI.
 
 ##Demo:
-- pstar.exe testpit <pstfile>
+- pstar.exe testpit pst_file.pst
 - or click "Run" in VS
